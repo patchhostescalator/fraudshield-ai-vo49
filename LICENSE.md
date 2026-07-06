@@ -1,4 +1,4 @@
-# 
+# Lightweight FraudShield bundle. Download and install with multi-language-support and no-dependencies — fast, secure, and easy to use.
 
 
 
